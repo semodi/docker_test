@@ -2,7 +2,7 @@
 #include "test.h"
 namespace{
 TEST(simple, simpletest){
-	EXPECT_EQ(testfunc(3),5);
+	EXPECT_EQ(testfunc(3),7);
 }
 
 }
